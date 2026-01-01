@@ -16,8 +16,8 @@ pip install kivy numpy pillow
 
 ### IWSS Contributors
 
-1. Immanuel Eben Haezer Joseph Aletheia
-2. Naufal Rafi Rahmadian
-3. Zuela Tinto Valdy Abdillah
+1. Immanuel Eben Haezer Joseph Aletheia (101022300172)
+2. Naufal Rafi Rahmadian (101022300334)
+3. Zuela Tinto Valdy Abdillah (101022330098)
 
 ---
